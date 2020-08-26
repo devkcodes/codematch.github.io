@@ -1,0 +1,173 @@
+body{
+    align-content: center;
+    background:url("https://res.cloudinary.com/dsph4eptm/image/upload/c_scale,h_985,w_1528/v1598421451/florian-olivo-4hbJ-eymZ1o-unsplash_ed681n.jpg");
+}
+
+h1{font-size: 60px;
+    padding:5px;
+    display:inline-block;
+    margin-top:50px;
+    border:2px solid white;
+    text-align: center;
+    display: inline;
+    margin-left: 450px;
+    color:white;
+    background:#252428;
+    display:inline-block;
+}
+
+.text-input{
+    
+}
+
+.text1{
+width:49%;
+height: 500px;
+position: relative;
+display: inline-block;
+border:2px solid black;
+}
+
+.text2{
+    width:49%;
+    height: 500px;
+    float:right;
+   display: inline;
+    position: relative;
+    border:2px solid black;
+    }
+
+    #text1{resize: none;
+        width:99%;
+        height: 498px;
+        overflow:scroll;
+        scrollbar-color:dark;
+        font-size:20px;
+        }
+
+    #text2{resize: none;
+        width:99%;
+        height: 498px;
+        overflow:scroll;
+        scrollbar-color:dark;
+        font-size:20px;
+        } 
+
+       
+
+        ul{display: block;
+            margin-top: 0px;
+            margin-left:300px;
+            padding-left: 110px;
+            color:white;
+    /* background:#252428; */
+    width:900px;
+    font-size: 24px;
+    /* border:2px solid white; */
+    padding:5px;
+        }
+
+        h3{
+            color:white;
+            background:#252428;
+            display: inline-block;
+            font-size: 24px;
+            border:2px solid white;
+            padding:5px;
+            margin-left: 680px;
+        }
+
+        .working{
+            margin-bottom:20px;
+            border:2px solid white;
+background:url("https://res.cloudinary.com/dsph4eptm/image/upload/c_scale,e_blur:1500,w_1573/v1598415275/florian-olivo-4hbJ-eymZ1o-unsplash_jdv4y5.jpg");
+        }
+         
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+    background: #252428;
+  }
+  
+  /* Track */
+  .scrollbar-track {
+    background: #252428;
+    
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+   .scrollbar-thumb:hover {
+    background: #555;
+    cursor: pointer;
+  }
+
+  #button-submit{
+      font-size: 20px;
+     padding:10px;
+     color:white;
+            background:#252428;
+            border:2px solid white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left:1300px;
+margin-top: 10px;
+width:200px;
+  }
+
+  #button-again{
+    font-size: 20px;
+   padding:10px;
+   color:white;
+          background:#252428;
+          border:2px solid white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left:1100px;
+margin-top: 10px;
+width:200px;
+}
+
+  .para{
+    width:1100px;
+    height: 700px;
+    overflow:scroll;
+    scrollbar-color:dark;
+    font-size:20px;
+    background:#252428;
+    margin-left: 200px;
+    margin-right: 200px;
+    border:2px solid white;
+    margin-top: 0px;
+    overflow:scroll ;
+  
+  }
+
+  h2{
+    margin-bottom: 15px;
+
+    color:white;
+    background:#252428;
+    display: inline-block;
+    font-size: 24px;
+    border:2px solid white;
+    padding:20px 20px 20px 20px;
+    margin-left: 670px;
+    font-size:50px;
+  }
+/* zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz */
+.intro{
+    margin-bottom: 15px;
+
+    color:white;
+    background:#252428;
+    display: block;
+    border-left:2px solid white;
+    border-bottom:2px solid white;
+    padding:2px 2px 2px 2px;
+    float:right;
+    font-size:10px;
+}
